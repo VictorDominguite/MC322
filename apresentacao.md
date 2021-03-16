@@ -6,7 +6,7 @@ Sou aluno do terceiro semestre de Engenharia da Computação na Unicamp, nasci e
 
 Sempre me interessei demasiadamente por desafios de lógica, também por matemática e matérias de exatas no geral.  Durante o Ensino Médio sempre buscava participar de olimpíadas, inclusive da Olimpíada de Matemática da Unicamp (OMU).
 
-Acredito que por esses motivos me interessei pelo curso de computação, sendo também um pouco influenciado pelo meu pai (formado em Ciência da Computação).
+Acredito que por esses motivos me interessei pelo curso, sendo também um pouco influenciado pelo meu pai (formado em Ciência da Computação).
 
 Entrei na universidade sem nunca ter visto sequer uma linha de código em linguagem de programação, mas, atualmente, após um ano de curso, sinto que fiz a opção correta.
 
