@@ -5,4 +5,4 @@
 
 ## Arquivos Java
 
-* Parte A: [Código fonte](src/mc322/lab05/)
+* Parte A: [Código fonte](src/mc322/lab05a/)
