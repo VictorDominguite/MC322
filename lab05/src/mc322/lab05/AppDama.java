@@ -1,5 +1,5 @@
 package mc322.lab05;
-public class AppDamas {
+public class AppDama {
   /* Executa, imprime e retorna todos os estados do jogo dado pelo arquivo csv em 'path'
   */
   public static String[] executaJogo(String path){
